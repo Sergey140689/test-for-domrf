@@ -9,9 +9,10 @@ const theme = {
 const GlobalStyle = createGlobalStyle`
 * {
   padding: 0;
+  margin: 0;
 }
 body {
-  background-color: #ddd;
+  background-color: #F3F4FF;
 }
 `;
 
